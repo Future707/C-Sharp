@@ -1,7 +1,7 @@
 # C-Sharp (C#) 🧠💻
 
 
-<img src="[![2](https://github.com/user-attachments/assets/95509e8c-761d-4806-823f-f26ecb772e2c)](https://github.com/Future707/Inventory/blob/main/Images/Csharp.jpg?raw=true)" width="400" alt="C#"/>
+[![2](https://github.com/user-attachments/assets/95509e8c-761d-4806-823f-f26ecb772e2c)](https://github.com/Future707/Inventory/blob/main/Images/Csharp.jpg?raw=true)
 
 
 
