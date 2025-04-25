@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\ClassColor\ClassColor\bin\Debug\ClassColor.exe.config
+C:\Users\lenovo\source\repos\ClassColor\ClassColor\bin\Debug\ClassColor.exe
+C:\Users\lenovo\source\repos\ClassColor\ClassColor\bin\Debug\ClassColor.pdb
+C:\Users\lenovo\source\repos\ClassColor\ClassColor\obj\Debug\ClassColor.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\ClassColor\ClassColor\obj\Debug\ClassColor.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\source\repos\ClassColor\ClassColor\obj\Debug\ClassColor.Form1.resources
+C:\Users\lenovo\source\repos\ClassColor\ClassColor\obj\Debug\ClassColor.Form2.resources
+C:\Users\lenovo\source\repos\ClassColor\ClassColor\obj\Debug\ClassColor.Properties.Resources.resources
+C:\Users\lenovo\source\repos\ClassColor\ClassColor\obj\Debug\ClassColor.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\ClassColor\ClassColor\obj\Debug\ClassColor.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\ClassColor\ClassColor\obj\Debug\ClassColor.exe
+C:\Users\lenovo\source\repos\ClassColor\ClassColor\obj\Debug\ClassColor.pdb

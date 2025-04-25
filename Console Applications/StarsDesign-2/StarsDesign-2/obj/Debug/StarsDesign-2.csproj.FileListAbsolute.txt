@@ -1,0 +1,8 @@
+C:\Users\lenovo\source\repos\StarsDesign-2\StarsDesign-2\bin\Debug\StarsDesign-2.exe.config
+C:\Users\lenovo\source\repos\StarsDesign-2\StarsDesign-2\bin\Debug\StarsDesign-2.exe
+C:\Users\lenovo\source\repos\StarsDesign-2\StarsDesign-2\bin\Debug\StarsDesign-2.pdb
+C:\Users\lenovo\source\repos\StarsDesign-2\StarsDesign-2\obj\Debug\StarsDesign-2.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\StarsDesign-2\StarsDesign-2\obj\Debug\StarsDesign-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\source\repos\StarsDesign-2\StarsDesign-2\obj\Debug\StarsDesign-2.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\StarsDesign-2\StarsDesign-2\obj\Debug\StarsDesign-2.exe
+C:\Users\lenovo\source\repos\StarsDesign-2\StarsDesign-2\obj\Debug\StarsDesign-2.pdb

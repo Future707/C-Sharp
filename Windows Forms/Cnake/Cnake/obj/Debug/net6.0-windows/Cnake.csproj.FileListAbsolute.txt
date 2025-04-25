@@ -1,0 +1,17 @@
+C:\Users\lenovo\source\repos\Cnake\Cnake\bin\Debug\net6.0-windows\Cnake.exe
+C:\Users\lenovo\source\repos\Cnake\Cnake\bin\Debug\net6.0-windows\Cnake.deps.json
+C:\Users\lenovo\source\repos\Cnake\Cnake\bin\Debug\net6.0-windows\Cnake.runtimeconfig.json
+C:\Users\lenovo\source\repos\Cnake\Cnake\bin\Debug\net6.0-windows\Cnake.dll
+C:\Users\lenovo\source\repos\Cnake\Cnake\bin\Debug\net6.0-windows\Cnake.pdb
+C:\Users\lenovo\source\repos\Cnake\Cnake\obj\Debug\net6.0-windows\Cnake.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Cnake\Cnake\obj\Debug\net6.0-windows\Cnake.Form1.resources
+C:\Users\lenovo\source\repos\Cnake\Cnake\obj\Debug\net6.0-windows\Cnake.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\Cnake\Cnake\obj\Debug\net6.0-windows\Cnake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Cnake\Cnake\obj\Debug\net6.0-windows\Cnake.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Cnake\Cnake\obj\Debug\net6.0-windows\Cnake.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Cnake\Cnake\obj\Debug\net6.0-windows\Cnake.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Cnake\Cnake\obj\Debug\net6.0-windows\Cnake.dll
+C:\Users\lenovo\source\repos\Cnake\Cnake\obj\Debug\net6.0-windows\refint\Cnake.dll
+C:\Users\lenovo\source\repos\Cnake\Cnake\obj\Debug\net6.0-windows\Cnake.pdb
+C:\Users\lenovo\source\repos\Cnake\Cnake\obj\Debug\net6.0-windows\Cnake.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Cnake\Cnake\obj\Debug\net6.0-windows\ref\Cnake.dll

@@ -1,0 +1,8 @@
+C:\Users\lenovo\source\repos\3and5\3and5\bin\Debug\3and5.exe.config
+C:\Users\lenovo\source\repos\3and5\3and5\bin\Debug\3and5.exe
+C:\Users\lenovo\source\repos\3and5\3and5\bin\Debug\3and5.pdb
+C:\Users\lenovo\source\repos\3and5\3and5\obj\Debug\3and5.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\3and5\3and5\obj\Debug\3and5.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\source\repos\3and5\3and5\obj\Debug\3and5.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\3and5\3and5\obj\Debug\3and5.exe
+C:\Users\lenovo\source\repos\3and5\3and5\obj\Debug\3and5.pdb

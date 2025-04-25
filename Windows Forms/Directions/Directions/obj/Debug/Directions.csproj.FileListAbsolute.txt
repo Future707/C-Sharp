@@ -1,0 +1,11 @@
+C:\Users\lenovo\source\repos\Directions\Directions\bin\Debug\Directions.exe.config
+C:\Users\lenovo\source\repos\Directions\Directions\bin\Debug\Directions.exe
+C:\Users\lenovo\source\repos\Directions\Directions\bin\Debug\Directions.pdb
+C:\Users\lenovo\source\repos\Directions\Directions\obj\Debug\Directions.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Directions\Directions\obj\Debug\Directions.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\source\repos\Directions\Directions\obj\Debug\Directions.Form1.resources
+C:\Users\lenovo\source\repos\Directions\Directions\obj\Debug\Directions.Properties.Resources.resources
+C:\Users\lenovo\source\repos\Directions\Directions\obj\Debug\Directions.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\Directions\Directions\obj\Debug\Directions.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Directions\Directions\obj\Debug\Directions.exe
+C:\Users\lenovo\source\repos\Directions\Directions\obj\Debug\Directions.pdb
